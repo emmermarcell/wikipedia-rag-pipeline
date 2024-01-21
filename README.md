@@ -13,6 +13,7 @@ This Jupyter notebook demonstrates the implementation of a Retrieval-Augmented G
 
 ### Technologies Used
 - Hugging Face Datasets
+- BlingFire
 - Sentence-Transformers
 - Faiss (Facebook AI Similarity Search)
 - DistilBERT
@@ -56,9 +57,9 @@ You can test the system with business-related questions such as:
 
 ## Acknowledgements
 Special thanks to the authors of the following resources for their insights and methodologies which greatly influenced this implementation:
-- [Implementing RAG with Langchain and Hugging Face by Akriti Upadhyay]
-- [Ask Wikipedia ELI5-like Questions Using Long-Form Question Answering on Haystack by Vladimir Blagojevic]
-- [Pre-processing a Wikipedia dump for NLP model training by Steven van de Graaf]
+- Implementing RAG with Langchain and Hugging Face by Akriti Upadhyay
+- Ask Wikipedia ELI5-like Questions Using Long-Form Question Answering on Haystack by Vladimir Blagojevic
+- Pre-processing a Wikipedia dump for NLP model training by Steven van de Graaf
 
 ---
 
